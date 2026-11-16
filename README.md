@@ -2,6 +2,18 @@
 I'm Khalid <br><br>I study Software Engineering (Bachelor of Engineering, Honours) at Swinburne University of Technology in Melbourne.<br><br>I work in web development, Android apps, and embedded hardware projects.<br><br>I do projects with Vue 3, PHP, MariaDB, Kotlin, Arduino, and ESP32.
 
 
+## 🚀 Projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| [**StockPal** 🔒](https://github.com/alluqmani07/StockPal-showcase) | Offline inventory tracker for small sellers: stock history, low-stock alerts, live summary, 90 automated tests | Kotlin · Jetpack Compose · Room |
+| [**Movie Web App** 🔒](https://github.com/alluqmani07/movie-web-app-showcase) | Team-built movie site with accounts, reviews, likes, search and a REST API | Vue 3 · Bootstrap 5 · PHP · MariaDB |
+| [**Boulder Wall** 🔒](https://github.com/alluqmani07/climbing-route-tracker-showcase) | Android app that scores a bouldering route live, with zones, combos, rotation-safe state and Arabic RTL | Kotlin · Android Views |
+| **Memory Training Platform** 🚧 | Web app for practising and competing in memory games, in progress with a friend | HTML · CSS · JavaScript · Node.js |
+
+🔒 The code is private (university coursework). Each link opens a showcase with screenshots and details, and the code is available on request.
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/K07vs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-alluqmani-494b78337/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@qkookq) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/albaeke) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Albaeke07) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@albaeke1350) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alluqmanikhalid2@gmail.com) 
 
