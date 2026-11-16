@@ -8,6 +8,7 @@ I'm Khalid Alluqmani <br><br>I study Software Engineering (Bachelor of Engineeri
 |---|---|---|
 | [**StockPal** 🔒](https://github.com/alluqmani07/StockPal-showcase) | Offline inventory tracker for small sellers: stock history, low-stock alerts, live summary, 90 automated tests | Kotlin · Jetpack Compose · Room |
 | [**Movie Web App** 🔒](https://github.com/alluqmani07/movie-web-app-showcase) | Team-built movie site with accounts, reviews, likes, search and a REST API | Vue 3 · Bootstrap 5 · PHP · MariaDB |
+| [**Harbour Hotel** 🔒](https://github.com/alluqmani07/harbour-hotel-showcase) | Android room-booking app with a credit balance, basket, booking validation in a second Activity and 26 unit tests | Kotlin · Jetpack Compose |
 | [**Boulder Wall** 🔒](https://github.com/alluqmani07/climbing-route-tracker-showcase) | Android app that scores a bouldering route live, with zones, combos, rotation-safe state and Arabic RTL | Kotlin · Android Views |
 | **Memory Training Platform** 🚧 | Web app for practising and competing in memory games, in progress with a friend | HTML · CSS · JavaScript · Node.js |
 
