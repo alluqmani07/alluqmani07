@@ -11,7 +11,7 @@ I'm Khalid <br><br>I study Software Engineering (Bachelor of Engineering, Honour
 | [**Boulder Wall** 🔒](https://github.com/alluqmani07/climbing-route-tracker-showcase) | Android app that scores a bouldering route live, with zones, combos, rotation-safe state and Arabic RTL | Kotlin · Android Views |
 | **Memory Training Platform** 🚧 | Web app for practising and competing in memory games, in progress with a friend | HTML · CSS · JavaScript · Node.js |
 
-🔒 The code is private (university coursework). Each link opens a showcase with screenshots and details, and the code is available on request.
+🔒 Private projects: each link opens a showcase with screenshots and details. Source code available upon request.
 
 
 ## 🌐 Socials:
