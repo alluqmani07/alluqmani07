@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Khalid <br><br>I study Software Engineering (Bachelor of Engineering, Honours) at Swinburne University of Technology in Melbourne.<br><br>I work in web development, Android apps, and embedded hardware projects.<br><br>I do projects with Vue 3, PHP, MariaDB, Kotlin, Arduino, and ESP32.
+I'm Khalid Alluqmani <br><br>I study Software Engineering (Bachelor of Engineering, Honours) at Swinburne University of Technology in Melbourne.<br><br>I work in web development, Android apps, and embedded hardware projects.<br><br>I do projects with Vue 3, PHP, MariaDB, Kotlin, Arduino, and ESP32.
 
 
 ## 🚀 Projects
